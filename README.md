@@ -6,7 +6,8 @@ This project aims to develop a self-driving car using reinforcement learning tec
 ## Tech Stack
 - **Programming Language**: Python
 - **Frameworks and Libraries**:
-  - TensorFlow
+  - Stable_baselines3
+  - Tensorflow
   - Keras
   - OpenAI Gym
   - NumPy
